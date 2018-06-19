@@ -1,1 +1,1 @@
-# private-ethereum-how-to
+Please check out the Wiki https://github.com/oscaryu/private-ethereum-how-to/wiki/How-To-Build-Your-Private-Ethereum-Network
